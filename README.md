@@ -8,8 +8,7 @@ You can clone the OTU2D dataset from this link: https://github.com/SonBH0410/OTU
 Our proposed method was public in **[Tensorflow] SovaSeg-Net.ipynb**
 
 ### Dataset
-The Multi-Modality Ovarian Tumor Ultrasound (MMOTU) dataset consists of two sub-datasets, OTU_2D and OTU_CEUS, containing 1469 2D ultrasound images and 170 CEUS images, respectively. And the MMOTU database was announced and published in the article: A Multi-Modality Ovarian Tumor Ultrasound Image Dataset for Unsupervised Cross-Domain Semantic Segmentation - Qi Zhao, Shuchang Lyu, Wenpei Bai, Linghan Cai, Binghao Liu, Meijing Wu, Xiubo Sang, Min Yang, and Lijiang Chen.
-[Github](https://github.com/cv516Buaa/MMOTU_DS2Net)
+The Multi-Modality Ovarian Tumor Ultrasound (MMOTU) dataset consists of two sub-datasets, OTU_2D and OTU_CEUS, containing 1469 2D ultrasound images and 170 CEUS images, respectively. And the MMOTU database was announced and published in the article: **A Multi-Modality Ovarian Tumor Ultrasound Image Dataset for Unsupervised Cross-Domain Semantic Segmentation** - *Qi Zhao, Shuchang Lyu, Wenpei Bai, Linghan Cai, Binghao Liu, Meijing Wu, Xiubo Sang, Min Yang, and Lijiang Chen*. [Github](https://github.com/cv516Buaa/MMOTU_DS2Net)
  <table>
     <caption>TABLET 1: OTU_2D dataset </caption>
     <thead>
